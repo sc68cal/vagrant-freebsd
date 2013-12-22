@@ -12,7 +12,7 @@ RC_CONF="https://raw.github.com/wunki/vagrant-freebsd/master/etc/rc.conf"
 RESOLV_CONF="https://raw.github.com/wunki/vagrant-freebsd/master/etc/resolv.conf"
 LOADER_CONF="https://raw.github.com/wunki/vagrant-freebsd/master/boot/loader.conf"
 PKG_CONF="https://raw.github.com/wunki/vagrant-freebsd/master/usr/local/etc/pkg.conf"
-FBSD_REPOS_CONF="https://raw.github.com/sc68cal/vagrant-freebsd/master/usr/local/etc/pkg/repos/FreeBSD.conf"
+FBSD_REPOS_CONF="https://raw.github.com/sc68cal/vagrant-freebsd/fbsd_repo/usr/local/etc/pkg/repos/FreeBSD.conf"
 
 # Message of the day
 MOTD="https://raw.github.com/wunki/vagrant-freebsd/master/etc/motd"
